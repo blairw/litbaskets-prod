@@ -1,0 +1,70 @@
+html, body, pre {
+	font-family: "Verdana", 'Helvetica Neue', "Helvetica", "Arial", sans-serif;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 3rem;
+}
+
+h2 {
+	margin-top: 4rem;
+	font-weight: bold;
+	font-style: italic;
+	color: gray;
+}
+
+.litbaskets-inline-button {
+	display: inline-block;
+	border: 1px solid lightgray;
+	background-color: rgb(231, 231, 231);
+	padding-left: 3px;
+	padding-right: 3px;
+	margin-left: 2px;
+	margin-right: 2px;
+	color: black;
+}
+
+#lbl_copy_to_clipboard {
+	font-weight: bold;
+	color: green;
+	padding-left: 1rem;
+}
+
+#txt_copy_to_clipboard {
+	height: 10rem;
+}
+
+.litfam_bibliography_entry {
+	font-size: 1.5rem;
+	padding-left: 4rem;
+	text-indent: -4rem;
+}
+
+.litfam_faq_para {
+	font-size: 1.5rem;
+}
+
+/* .link_for_nav_litbaskets > a {
+	font-size: 100% !important;
+} */
+
+.homepage_steps_table {
+	border-collapse: separate;
+	border-spacing: 0.5rem;
+}
+
+.homepage_steps_table td {
+	padding: 1rem;
+	background-color: rgb(244,244,244);
+}
+
+/* 
+.custom-select {
+	font-size: 8pt;
+} */
+
+.external_link {
+    background: url(http://upload.wikimedia.org/wikipedia/commons/6/64/Icon_External_Link.png)     center right no-repeat;
+    padding-right: 13px;
+}
